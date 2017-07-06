@@ -1,0 +1,3 @@
+insert into X_mobile_module_config (MODULECONFIGID, TYPE, MODULETYPE, MODULEKEY, MODULENAME, SORT, URL, IMAGEURL, FLAG, CREATETIME, UPDATETIME, CREATEBY, UPDATEBY, ORDERBY, DISPLAY, LOCATION, FMODULE, APPLICATIONTYPE, APPLICATIONCODE, ACTIONNAME, DATATYPE, LISTEMPTYMSG, FILETYPE)
+values (10000000980279, 'module', 'generalModule', 'generalApproval', '通用审批', 32, 'xcysoft/mobile/general/generalList.ht?method=getListInterface', '/styles/default/images/resicon/nmyd_mobile_icon/icon024.png', 1, '04-3月 -15 02.48.22.406000 下午', '', 1, null, 0, 0, 'normal', '', 'zdld', 'generalApproval', '2', 'json', '', 'approval');
+
